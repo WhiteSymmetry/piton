@@ -32,4 +32,5 @@ https://www.python.org/downloads/
 
 https://thonny.org/
 
+Anaconda--> Jupyter--> http://localhost:8888/notebooks/
 
