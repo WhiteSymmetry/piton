@@ -1,4 +1,4 @@
-# Pyton/Piton
+# Python/Piton
 Piton
 
 #Python
