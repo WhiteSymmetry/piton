@@ -21,7 +21,13 @@ https://colab.research.google.com/
 
 https://www.programiz.com/python-programming/online-compiler/
 
+https://ideone.com/
+
 #Compilers/Derleyiciler:
 ==================
 
-https://ideone.com/
+https://www.python.org/downloads/
+
+https://thonny.org/
+
+
