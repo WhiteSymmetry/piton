@@ -11,6 +11,8 @@ Piton
 #Python Samples/Örnekler
 ==================
 Burada Python üzerine basit fakat Türkçe ve Türkçe karakterlere sahip örnekler verilecektir.
+# (hashtag) Bir satır açıklama için kullanılır.
+'''....''': Birden fazla satır açıklamaları için kullanılır.
 
 https://www.programiz.com/python-programming
 
