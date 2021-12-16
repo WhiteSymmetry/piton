@@ -18,6 +18,8 @@ https://www.programiz.com/python-programming
 
 https://www.jdoodle.com/python3-programming-online/
 
+https://realpython.com/
+
 #Compiler Interactive/İnteraktif:
 ==================
 
